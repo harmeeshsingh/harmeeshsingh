@@ -1,233 +1,29 @@
-<!--
 
-Thank you if you like this profile README!
+<h1 align="center">Hi 👋, I'm Harmeesh Singh </h1>
+<h3 align="center">A passionate Cloud, DevOps & DevSecOps Engineer</h3>
+<img align="right" atl="coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-BUT, please DO NOT copy this and create your profile based on it.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpatelitofficial&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatelitofficial" /> </p>
 
-You can use it as a reference, and copy a part of it, but DO NOT copy
-all of this and create your profile based on it.
+- 🔭 I’m currently working on **internal project**
 
-It is very common that you forget to change some information and leave
-mine in your profile. This has happened too many times.
+- 🌱 I’m currently learning **OpenShift**
 
-And, this profile README is auto-updated by GitHub Actions, you can read
-[the official documentation](https://docs.github.com/actions) to learn
-how to use it.
+- 👯 I’m looking to collaborate on **DevSecOps Native Tools**
 
-Only when you know what you are copying should you paste it. So, again,
-please DO NOT copy this and create your profile based on it.
+- 🤝 I’m looking for help with **DevSecOps**
 
-What's more, you can find other awesome profile READMEs at
-https://github.com/abhisheknaiidu/awesome-github-profile-readme. There
-could be a profile README that fits you better than this one.
+- 💬 Ask me about **DevOps**
 
-Wish you a good-looking profile README!
+- 📫 How to reach me **harmeeshsingheee@gmail.com**
 
-                                   —— ouuan (https://github.com/ouuan)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aman-patel-09753220b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-patel-09753220b/" height="30" width="40" /></a>
+<a href="https://fb.com/amanpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amanpatel" height="30" width="40" /></a>
+<a href="https://instagram.com/amanpatel.itofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amanpatel.itofficial" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/amanops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amanops" height="30" width="40" /></a>
+</p>
 
--->
-
-My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I am an undergraduate student at Tsinghua University, China.
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
-</picture>
-
--   :pencil2: C++ / TypeScript / Vue / Rust / Python / SystemVerilog
--   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [mpv](https://mpv.io/) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm)
--   :seedling: Doing some network security research with @chenjj
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new)!
--   :mag: [CVEs discovered by me](CVE.md)
--   :star: [Projects starred by me](AWESOME-STARS.md)
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
-
----
-
-### :pencil: [Latest blog posts](https://ouuan.moe?utm_source=GitHubProfile)
-
-<!--START_SECTION:blog-posts-->
--   2024-07-07 [DownUnderCTF 2024 Write-Up](https://ouuan.moe/post/2024/07/ductf-2024?utm_source=GitHubProfile)
--   2024-05-24 [解决使用 profile-sync-daemon 时 Firefox 开机启动报错](https://ouuan.moe/post/2024/05/psd-firefox-startup?utm_source=GitHubProfile)
--   2024-02-06 [OSTEP 学习笔记 —— Virtualization](https://ouuan.moe/post/2024/01/ostep-virtualization?utm_source=GitHubProfile)
--   2024-02-05 [DiceCTF 2024 Quals Write-Up](https://ouuan.moe/post/2024/02/dicectf-2024-quals?utm_source=GitHubProfile)
--   2023-12-03 [THUCTF2023 IoT 赛道 WriteUp](https://ouuan.moe/post/2023/12/thuctf2023-iot-writeup?utm_source=GitHubProfile)
-<!--END_SECTION:blog-posts-->
-
----
-
-### :sparkles: [My followers](src/getTopFollowers.py)
-
-<!--START_SECTION:top-followers-->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/wizardforcel">
-        <img src="https://avatars2.githubusercontent.com/u/5080126" width="100px;" alt="wizardforcel"/>
-      </a>
-      <br />
-      <a href="https://github.com/wizardforcel">布客飞龙</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gaocegege">
-        <img src="https://avatars2.githubusercontent.com/u/5100735" width="100px;" alt="gaocegege"/>
-      </a>
-      <br />
-      <a href="https://github.com/gaocegege">Ce Gao</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/EndlessCheng">
-        <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
-      </a>
-      <br />
-      <a href="https://github.com/EndlessCheng">灵茶山艾府</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/guofei9987">
-        <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
-      </a>
-      <br />
-      <a href="https://github.com/guofei9987">郭飞</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hua1995116">
-        <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
-      </a>
-      <br />
-      <a href="https://github.com/hua1995116">蓝色的秋风</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lowlighter">
-        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
-      </a>
-      <br />
-      <a href="https://github.com/lowlighter">Simon Lecoq</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/losfair">
-        <img src="https://avatars2.githubusercontent.com/u/6104981" width="100px;" alt="losfair"/>
-      </a>
-      <br />
-      <a href="https://github.com/losfair">Heyang Zhou</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Harry-Chen">
-        <img src="https://avatars2.githubusercontent.com/u/2819727" width="100px;" alt="Harry-Chen"/>
-      </a>
-      <br />
-      <a href="https://github.com/Harry-Chen">Shengqi Chen</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mashirozx">
-        <img src="https://avatars2.githubusercontent.com/u/16148054" width="100px;" alt="mashirozx"/>
-      </a>
-      <br />
-      <a href="https://github.com/mashirozx">Mashiro</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Ir1d">
-        <img src="https://avatars2.githubusercontent.com/u/10709657" width="100px;" alt="Ir1d"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ir1d">Dejia Xu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Konano">
-        <img src="https://avatars2.githubusercontent.com/u/22500116" width="100px;" alt="Konano"/>
-      </a>
-      <br />
-      <a href="https://github.com/Konano">Nano</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/clansty">
-        <img src="https://avatars2.githubusercontent.com/u/18461360" width="100px;" alt="clansty"/>
-      </a>
-      <br />
-      <a href="https://github.com/clansty">凌莞~(=^▽^=)</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lzwjava">
-        <img src="https://avatars2.githubusercontent.com/u/5022872" width="100px;" alt="lzwjava"/>
-      </a>
-      <br />
-      <a href="https://github.com/lzwjava">Zhiwei Li</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Trumeet">
-        <img src="https://avatars2.githubusercontent.com/u/17158086" width="100px;" alt="Trumeet"/>
-      </a>
-      <br />
-      <a href="https://github.com/Trumeet">Yuuta Liang</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/SunsetMkt">
-        <img src="https://avatars2.githubusercontent.com/u/26019675" width="100px;" alt="SunsetMkt"/>
-      </a>
-      <br />
-      <a href="https://github.com/SunsetMkt">Sunset Mikoto</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Enter-tainer">
-        <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
-      </a>
-      <br />
-      <a href="https://github.com/Enter-tainer">Wenzhuo Liu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/cubercsl">
-        <img src="https://avatars2.githubusercontent.com/u/22931465" width="100px;" alt="cubercsl"/>
-      </a>
-      <br />
-      <a href="https://github.com/cubercsl">cubercsl</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gdut-yy">
-        <img src="https://avatars2.githubusercontent.com/u/33390928" width="100px;" alt="gdut-yy"/>
-      </a>
-      <br />
-      <a href="https://github.com/gdut-yy">张逸扬</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/iBug">
-        <img src="https://avatars2.githubusercontent.com/u/7273074" width="100px;" alt="iBug"/>
-      </a>
-      <br />
-      <a href="https://github.com/iBug">iBug</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/so1ve">
-        <img src="https://avatars2.githubusercontent.com/u/58381667" width="100px;" alt="so1ve"/>
-      </a>
-      <br />
-      <a href="https://github.com/so1ve">Ray</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lz233">
-        <img src="https://avatars2.githubusercontent.com/u/32504382" width="100px;" alt="lz233"/>
-      </a>
-      <br />
-      <a href="https://github.com/lz233">lz差不多是条咸鱼了</a>
-    </td>
-  </tr>
-</table>
-<!--END_SECTION:top-followers-->
-
----
-
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
-
-<!--START_SECTION:waka-->
-
-```txt
-Python            35 hrs 54 mins  🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.21 %
-Markdown          35 hrs 26 mins  🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.89 %
-Rust              22 hrs 26 mins  🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.13 %
-text              10 hrs 1 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.75 %
-Java              6 hrs 56 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.68 %
-```
-
-<!--END_SECTION:waka-->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
